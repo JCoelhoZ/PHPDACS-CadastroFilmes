@@ -16,6 +16,6 @@
 	}	
 	mysqli_stmt_execute($stmtprep);
 
-	$newURL = "clientes.php";
+	$newURL = "listafilmes.php";
 	header('Location: '.$newURL);
 ?>

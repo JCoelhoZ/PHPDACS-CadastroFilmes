@@ -50,7 +50,7 @@
 
     <div class="card">
 		<div class="card-body">
-			<a href="cadclientes.php" class="btn btn-primary"> Novo Filme </a>
+			<a href="cadastro.php" class="btn btn-primary"> Novo Filme </a>
 			<table class="table">
 				<thead>
 				<tr>
